@@ -12,6 +12,27 @@ The dashboard is designed for quick decision-making by presenting key metrics an
 
 ---
 
+## 📸 Output Showcase
+
+### 🖼️ Screenshots
+
+
+
+![Dashboard image](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.jpg) 
+
+
+
+---
+
+### 🎬 GIF 
+
+
+
+![Dashboard gif](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.gif)
+
+---
+
+
 ## 🎯 Key Features
 
 ### 1. 📈 KPI Cards
@@ -174,28 +195,6 @@ These KPIs give a quick snapshot of overall performance.
 * Include forecasting (using Power BI analytics tools)
 * Add drill-through reports
 * Integrate real-time data sources
-
-
----
-
-## 📸 Output Showcase
-
-### 🖼️ Screenshots
-
-
-
-![Dashboard image](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.jpg) 
-
-
-
----
-
-### 🎬 GIF 
-
-
-
-![Dashboard gif](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.gif)
-
 
 ---
 
