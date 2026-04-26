@@ -182,20 +182,20 @@ These KPIs give a quick snapshot of overall performance.
 
 ### 🖼️ Screenshots
 
-```markdown
+
 
 ![Dashboard image](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.jpg) 
 
-```
+
 
 ---
 
 ### 🎬 GIF 
 
-```markdown
+
 
 ![Dashboard gif](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.gif)
-```
+
 
 ---
 
