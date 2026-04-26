@@ -184,7 +184,7 @@ These KPIs give a quick snapshot of overall performance.
 
 ```markdown
 
-| Dashboard | ![Dashboard](./Assets/sales_dashboard.jpg) |
+![Dashboard image](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.jpg) 
 
 ```
 
@@ -194,7 +194,7 @@ These KPIs give a quick snapshot of overall performance.
 
 ```markdown
 
-![Dashboard](./Assets/sales_dashboard.gif)
+![Dashboard gif](https://github.com/ashishkumarak/Sales-Analytics-Dashboard-using-Power-BI/blob/2568509c0f2a1bd3997fa50b61fb87b4065bc7ff/Assets/sales_dashboard.gif)
 ```
 
 ---
